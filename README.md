@@ -48,7 +48,7 @@ This project analyzes customer churn behavior using a telecom dataset. The goal 
 ![Charges](monthly_charges.png)
 
 ### Tenure vs Churn
-![Tenure](tenure_churn.png)
+![Tenure](churn_tenure.png)
 
 ### Internet Service
 ![Internet](internet_service.png)
